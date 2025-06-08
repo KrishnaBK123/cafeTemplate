@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/373273b8-a97b-4cde-9c11-d73a5a4e80b8
+**URL**: http://cafecloudwebdeployment.s3-website.ap-south-1.amazonaws.com/
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/373273b8-a97b-4cde-9c11-d73a5a4e80b8) and start prompting.
+Simply visit the (http://cafecloudwebdeployment.s3-website.ap-south-1.amazonaws.com/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
